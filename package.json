@@ -1,5 +1,5 @@
 {
-  "name": "meme-generator",
+  "name": "vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -20,6 +20,20 @@
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react": "^3.1.0",
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1",
     "vite": "^4.2.0"
-  }
+  },
+  "main": "vite.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dhruv-Simpplr/Meme-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dhruv-Simpplr/Meme-Generator/issues"
+  },
+  "homepage": "https://github.com/Dhruv-Simpplr/Meme-Generator#readme",
+  "description": ""
 }
